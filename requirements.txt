@@ -1,0 +1,12 @@
+# Core dependencies
+python-dotenv
+langgraph
+langchain-core
+langchain-openai
+langchain-community
+langchain-text-splitters
+langchain-chroma
+
+# Additional dependencies
+pypdf
+ dashscope
